@@ -308,7 +308,7 @@ AI-Vision-Detector/
 🔬 Technical Specifications
 
 ---
-Component	Details
+##  Component	Details
 🧠 AI Model	YOLOv8 Nano
 ⚡ Framework	Ultralytics
 🔥 Backend	PyTorch
@@ -322,7 +322,7 @@ Component	Details
 ---
 Potential enhancements:
 
-🌐 Web-based deployment
+## 🌐 Web-based deployment
 📱 Mobile application support
 ☁️ Cloud AI processing
 🧠 Custom trained detection models
