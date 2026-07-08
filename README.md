@@ -151,7 +151,9 @@ UI Features:
 
 ---
 
-# 🏗️ Application Workflow
+# 
+
+🏗️ Application Workflow
 Video Source
 |
 ↓
@@ -172,7 +174,9 @@ PyQt5 User Interface Display
 
 ---
 
-# 🛠️ Technology Stack
+# 
+
+🛠️ Technology Stack
 
 ## 🐍 Programming Language
 
