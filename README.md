@@ -256,15 +256,21 @@ Model details:
 ---
 Run the application:
 
+
+
 python main.py
 🎮 Application Controls
 🎥 Video Source
+
+
 ---
 Choose input:
 
 📷 Webcam
 🎞️ Video File
 ⚙️ Detection Settings
+
+
 ---
 Customize:
 
@@ -307,8 +313,10 @@ AI-Vision-Detector/
     └── generated images
 🔬 Technical Specifications
 
+
+
 ---
-##  Component	Details
+ Component	Details
 🧠 AI Model	YOLOv8 Nano
 ⚡ Framework	Ultralytics
 🔥 Backend	PyTorch
@@ -319,10 +327,14 @@ AI-Vision-Detector/
 🎞️ Video Output	AVI (XVID Codec)
 📸 Image Output	PNG
 🚀 Future Improvements
+
+
 ---
 Potential enhancements:
 
-## 🌐 Web-based deployment
+
+
+🌐 Web-based deployment
 📱 Mobile application support
 ☁️ Cloud AI processing
 🧠 Custom trained detection models
@@ -330,6 +342,9 @@ Potential enhancements:
 🔔 Real-time alerts
 👥 Multi-camera monitoring
 🎯 Project Outcome
+
+
+
 ---
 AI Vision Detector successfully demonstrates the integration of artificial intelligence, computer vision, and desktop application development into a practical real-time detection system.
 
