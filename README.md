@@ -282,9 +282,13 @@ Setting	Description
 
 Steps:
 
+
+
 Click Record
 Perform detection
 Click Stop Recording
+
+
 ---
 Output:
 
@@ -348,7 +352,11 @@ Potential enhancements:
 ---
 AI Vision Detector successfully demonstrates the integration of artificial intelligence, computer vision, and desktop application development into a practical real-time detection system.
 
+
+
 The project combines deep learning inference, video processing, GPU acceleration, and an interactive graphical interface to create a reliable AI-powered vision application suitable for research, prototyping, and real-world computer vision applications.
+
+
 ---
 👨‍💻 Author
 
